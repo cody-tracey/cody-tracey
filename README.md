@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 const cody = {
     pronouns: "he" | "him",
     code: [JavaScript, HTML, CSS],
-    tools: [React,Bootstrap,Node.js,Express.js,SQL,MongoDB,Mongoose],
+    tools: [React, Bootstrap, Node.js, Express.js, SQL, MongoDB, Mongoose],
     currChallenge: "30 Vanilla JS projects in 30 Days",
 }
 ```
