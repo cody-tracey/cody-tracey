@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Cody's GitHub stats](https://github-readme-stats.vercel.app/api?username=cody-tracey)](https://github.com/cody-tracey/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cody-tracey&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
